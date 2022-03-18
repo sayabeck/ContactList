@@ -97,7 +97,7 @@
             </objects>
             <point key="canvasLocation" x="1031.8840579710145" y="-1.3392857142857142"/>
         </scene>
-        <!--Person List-->
+        <!--Persons List-->
         <scene sceneID="eTf-Lt-Ild">
             <objects>
                 <tableViewController id="Wdt-wb-ZUX" customClass="SecondContactListViewController" customModule="ContactList" customModuleProvider="target" sceneMemberID="viewController">
@@ -129,7 +129,7 @@
                             <outlet property="delegate" destination="Wdt-wb-ZUX" id="nMx-CF-rUM"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Person List" id="7nH-Bt-uBH"/>
+                    <navigationItem key="navigationItem" title="Persons List" id="7nH-Bt-uBH"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Cm6-ZN-afw" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
